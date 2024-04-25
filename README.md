@@ -23,3 +23,6 @@ Stored Procedures: Implements stored procedures to handle complex queries and op
 User-defined Functions: Develops custom functions to perform calculations and data manipulation tasks, enhancing the flexibility and efficiency of transaction analysis.
 Triggers: Implements triggers to enforce data integrity rules, audit transaction data, and prevent unauthorized actions, ensuring database security and reliability.
 Reporting and Visualization: Utilizes pivot tables and customized reports to visualize transaction data and extract actionable insights for decision-making purposes.
+
+![SSMS Version](https://img.shields.io/badge/SSMS-v19-blue)
+
